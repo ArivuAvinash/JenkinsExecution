@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[onStartBatchSuite3_testng.xml]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-07-03T10:04:34 IST" name="BatchSuite3_testng.xml" finished-at="2026-07-03T10:07:08 IST" duration-ms="154507">
+    <groups>
+    </groups>
+    <test started-at="2026-07-03T10:04:34 IST" name="Test" finished-at="2026-07-03T10:07:08 IST" duration-ms="154507">
+      <class name="org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:05:45 IST" name="launchBrowser" finished-at="2026-07-03T10:05:47 IST" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:05:48 IST" name="login" finished-at="2026-07-03T10:05:51 IST" duration-ms="3630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="toCreateMultipleContactsWithMandatoryFields(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:05:51 IST" name="toCreateMultipleContactsWithMandatoryFields" data-provider="Multicontact" finished-at="2026-07-03T10:06:10 IST" duration-ms="18616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAAA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BBBB]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[98745]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestSuccess]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCreateMultipleContactsWithMandatoryFields -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:06:10 IST" name="logout" finished-at="2026-07-03T10:06:14 IST" duration-ms="4722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:06:14 IST" name="login" finished-at="2026-07-03T10:06:18 IST" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="toCreateMultipleContactsWithMandatoryFields(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:06:18 IST" name="toCreateMultipleContactsWithMandatoryFields" data-provider="Multicontact" finished-at="2026-07-03T10:06:36 IST" duration-ms="17941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CCCC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DDDD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[87456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestSuccess]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCreateMultipleContactsWithMandatoryFields -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:06:36 IST" name="logout" finished-at="2026-07-03T10:06:41 IST" duration-ms="4365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:06:41 IST" name="login" finished-at="2026-07-03T10:06:44 IST" duration-ms="3547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="toCreateMultipleContactsWithMandatoryFields(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:06:44 IST" name="toCreateMultipleContactsWithMandatoryFields" data-provider="Multicontact" finished-at="2026-07-03T10:07:03 IST" duration-ms="18825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EEEE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FFFF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[78456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestSuccess]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCreateMultipleContactsWithMandatoryFields -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:07:03 IST" name="logout" finished-at="2026-07-03T10:07:08 IST" duration-ms="4823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest@4690b489]" started-at="2026-07-03T10:07:08 IST" name="closeBrowser" finished-at="2026-07-03T10:07:08 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.vtiger.contacts.TC003_ToVerifyUserIsAbleToCreateMultipleContactWithMandatoryFieldsTest -->
+      <class name="org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:04:34 IST" name="launchBrowser" finished-at="2026-07-03T10:04:36 IST" duration-ms="2438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:04:37 IST" name="login" finished-at="2026-07-03T10:04:41 IST" duration-ms="3834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createMultipleCampaignWithMandatoryFileds(java.lang.String,java.lang.String)[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:04:41 IST" name="createMultipleCampaignWithMandatoryFileds" data-provider="MultipleData" finished-at="2026-07-03T10:04:55 IST" duration-ms="14068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TVS50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2026-06-21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestSuccess]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultipleCampaignWithMandatoryFileds -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:04:55 IST" name="logout" finished-at="2026-07-03T10:05:00 IST" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:00 IST" name="login" finished-at="2026-07-03T10:05:04 IST" duration-ms="3557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createMultipleCampaignWithMandatoryFileds(java.lang.String,java.lang.String)[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:04 IST" name="createMultipleCampaignWithMandatoryFileds" data-provider="MultipleData" finished-at="2026-07-03T10:05:18 IST" duration-ms="14190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[REDMI]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2026-06-21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestSuccess]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultipleCampaignWithMandatoryFileds -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:18 IST" name="logout" finished-at="2026-07-03T10:05:22 IST" duration-ms="4430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:22 IST" name="login" finished-at="2026-07-03T10:05:26 IST" duration-ms="3498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createMultipleCampaignWithMandatoryFileds(java.lang.String,java.lang.String)[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:26 IST" name="createMultipleCampaignWithMandatoryFileds" data-provider="MultipleData" finished-at="2026-07-03T10:05:40 IST" duration-ms="14391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[REALME]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2026-06-21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[onTestSuccess]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultipleCampaignWithMandatoryFileds -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:40 IST" name="logout" finished-at="2026-07-03T10:05:45 IST" duration-ms="4815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest@1534f01b]" started-at="2026-07-03T10:05:45 IST" name="closeBrowser" finished-at="2026-07-03T10:05:45 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.vtiger.campaign.TC003_ToVerifyUserIsAbleToCreateMultipleCampaginWithMandatoryFieldsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- BatchSuite3_testng.xml -->
+</testng-results>

@@ -1,0 +1,13 @@
+org\vtiger\objectrepository\CreateContactsPage.class
+org\vtiger\objectrepository\LoginPage.class
+org\vtiger\genericutility\JavaUtility.class
+org\vtiger\objectrepository\CampaignsPage.class
+org\vtiger\objectrepository\Homepage.class
+org\vtiger\genericutility\ListenerUtility.class
+org\vtiger\genericutility\WebDriverUtility.class
+org\vtiger\objectrepository\CreateCampaignPage.class
+org\vtiger\businessutility\BaseClass.class
+org\vtiger\genericutility\FileUtility.class
+org\vtiger\genericutility\DataProviderUtility.class
+org\vtiger\objectrepository\ContactsPage.class
+org\vtiger\genericutility\RetryAnalyzer.class
